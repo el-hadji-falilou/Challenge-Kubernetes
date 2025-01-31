@@ -1,0 +1,5 @@
+apiVersion: v2
+name: my-chart
+description: "A helm chart to deploy two web applications (webdb - webnodb)"
+version: 0.1.0
+appVersion: "1.0"
